@@ -14,3 +14,18 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/dilshodev3234/BasicDjango.git
 git push -u origin main
+
+
+==============================================================
+
+fixtures
+ORM query
+Form
+
+=================
+home work:
+    https://bootdey.com/snippets/view/Shop-product-list
+    https://bootdey.com/snippets/view/product-full-detail
+
+    read : https://books.agiliq.com/projects/django-orm-cookbook/en/latest/or_query.html
+
